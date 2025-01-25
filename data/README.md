@@ -1,0 +1,3 @@
+# Setup
+Unzip the files here. Then move all the val images into a folder called '000'.
+This is purely for the purpose of the dataloader...
